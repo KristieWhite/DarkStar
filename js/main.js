@@ -1,0 +1,1 @@
+var DarkStar = "Dark Star";

@@ -1,0 +1,20 @@
+#header {
+	background-color: rgba(95,43,4,1);
+}
+h1 {
+	color: white;
+	text-align: center;
+	font-family: 'PT Serif', serif;
+	padding-top: 5%;
+}
+h2 {
+	color: white;
+	text-align: center;
+	font-family: 'PT Serif', serif;
+	font-size: 1.5em;
+	padding-bottom: 11%;
+	margin: 0;
+}
+#darkStarImg {
+	width: 100%;
+}
