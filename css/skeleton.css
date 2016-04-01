@@ -373,6 +373,9 @@ form {
 .center {
   text-align: center;
 }
+.indent {
+  margin-left: 1.5em;
+}
 
 /* Misc
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
