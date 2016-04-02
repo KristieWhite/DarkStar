@@ -1,11 +1,15 @@
 #header {
 	background-color: rgba(95,43,4,1);
+	/*position: relative;*/
+}
+#photoHeader {
+	background-color: rgba(95,43,4,1);
 }
 h1 {
 	color: white;
 	text-align: center;
 	font-family: 'PT Serif', serif;
-	padding-top: 5%;
+	padding-top: 4%;
 	font-size: 3.5em;
 }
 h2 {
@@ -13,19 +17,23 @@ h2 {
 	text-align: center;
 	font-family: 'PT Serif', serif;
 	font-size: 1.5em;
-	padding-bottom: 11%;
+	padding-bottom: 5%;
 	margin: 0;
 }
 h3 {
 	color: white;
-	font-size: 2.5em;
+	font-size: 2.4em;
 	color: #FFE035;
 	padding: 1em;
 }
 img#profilePic {
-	width: 15%;
-	margin: -14em 1em 0 0;
-	border-radius: 15%;
+	width: 90%;
+	padding: 2em;
+	/*margin: -18em 1em 0 0;*/
+	/*position: absolute;*/
+	/*right: 0%;*/
+	/*bottom: 1%;*/
+	/*border-radius: 50%;*/
 }
 #purchaseLinks {
 	padding: 1em;
