@@ -9,7 +9,7 @@ h1 {
 	color: white;
 	text-align: center;
 	font-family: 'PT Serif', serif;
-	padding-top: 4%;
+	padding-top: 3%;
 	font-size: 3.5em;
 }
 h2 {
@@ -27,8 +27,9 @@ h3 {
 	padding: 1em;
 }
 img#profilePic {
-	width: 90%;
-	padding: 2em;
+	width: 70%;
+	float: right;
+	/*padding: 2em;*/
 	/*margin: -18em 1em 0 0;*/
 	/*position: absolute;*/
 	/*right: 0%;*/
@@ -47,17 +48,17 @@ img#profilePic {
 #social {
 	padding: 1em;
 }
-#footer {
+#footer1 {
 	background-color: rgba(95,43,4,1);
 	color: white;
-}
-#buyLinksFooter {
-	padding: 2em 2em .5em 2em;
-}
-#socialLinksFooter {
-	padding: 2em 0 .5em 2em;
-}
-.footLinks {
 	padding: 1em;
-	align: center;
+}
+#footer2 {
+	background-color: rgba(95,43,4,1);
+}
+.listIndent1 {
+	margin-left: 40%;
+}
+.listIndent3 {
+	margin-left: 38%;
 }
