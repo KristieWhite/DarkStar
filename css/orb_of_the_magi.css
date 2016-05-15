@@ -1,0 +1,74 @@
+#header1 {
+	background-color: rgba(95,43,4,1);
+}
+#header2 {
+	background-color: rgba(95,43,4,1);
+}
+#photoHeader {
+	background-color: rgba(95,43,4,1);
+}
+h1 {
+	color: white;
+	font-family: 'PT Serif', serif;
+	padding-top: 3%;
+	/*padding-left: 1%;*/
+	text-align: center;
+	font-size: 3.5em;
+}
+h2 {
+	color: white;
+	font-family: 'PT Serif', serif;
+	font-size: 1.5em;
+	/*padding-left: 1%;*/
+	padding-bottom: 5%;
+	text-align: center;
+}
+h3 {
+	color: white;
+	font-size: 2.4em;
+	color: #FFE035;
+	padding: 1em;
+}
+img#profilePic {
+	width: 150px;
+	margin-left: 5%;
+}
+#purchaseLinks {
+	padding: 1em;
+}
+#darkStarImg {
+	width: 100%;
+}
+#description {
+	padding: 0 3em 0 1em;
+}
+#social {
+	padding: 1em;
+}
+.videoWrapper {
+	position: relative;
+	padding-bottom: 56.25%; /* 16:9 */
+	padding-top: 25px;
+	height: 0;
+}
+.videoWrapper iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+#footer1 {
+	background-color: rgba(95,43,4,1);
+	color: white;
+	padding-top: 2em;
+}
+#footer2 {
+	background-color: rgba(95,43,4,1);
+}
+.listIndent1 {
+	margin-left: 40%;
+}
+.listIndent3 {
+	margin-left: 38%;
+}
