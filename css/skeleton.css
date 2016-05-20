@@ -160,8 +160,15 @@ p {
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 a {
   color: #1EAEDB; }
+a:link {
+  text-decoration: none;
+}
+a:visited {}
 a:hover {
   color: #0FA0CE; }
+a:active {
+  background-color: white;
+}
 
 
 /* Buttons
@@ -409,6 +416,8 @@ near the relevant code. For example, if you wanted to change the styles for butt
 on small devices, paste the mobile query code up in the buttons section and style it
 there.
 */
+
+/* SPECIFIC CONTENT QUERIES ARE LOCATED ON THE INDIVIDUAL CSS PAGES. These are for SHARED headers/footers */
 
 
 /* Larger than mobile */
