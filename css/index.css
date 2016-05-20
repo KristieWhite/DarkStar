@@ -1,10 +1,10 @@
 #header {
-	background-color: rgba(95,43,4,1);
+	background-color: rgba(114,43,4,1);
 }
 h1 {
 	color: white;
 	font-family: 'PT Serif', serif;
-	padding: 5%;
+	padding: 5% 0 2% 0;
 	text-align: center;
 	font-size: 3.5em;
 }
@@ -14,6 +14,10 @@ h2 {
 	font-size: 2.2em;
 	padding-top: 1%;
 	padding-bottom: 4%;
+	text-align: center;
+}
+h3 {
+	color: white;
 	text-align: center;
 }
 #magiSeries {
@@ -53,12 +57,12 @@ img#profilePic {
 	height: 100%;
 }
 #footer1 {
-	background-color: rgba(110,43,4,1);
+	background-color: rgba(114,43,4,1);
 	color: white;
 	padding-top: 2em;
 }
 #footer2 {
-	background-color: rgba(110,43,4,1);
+	background-color: rgba(114,43,4,1);
 }
 .listIndent1 {
 	margin-left: 40%;
