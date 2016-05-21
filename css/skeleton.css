@@ -167,7 +167,7 @@ a:visited {}
 a:hover {
   color: #0FA0CE; }
 a:active {
-  background-color: white;
+  /*background-color: white;*/
 }
 
 
