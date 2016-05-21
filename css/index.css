@@ -1,5 +1,6 @@
 #header {
 	background-color: rgba(114,43,4,1);
+	border-bottom: 3px white double;
 }
 h1 {
 	color: white;
@@ -22,9 +23,9 @@ h2 {
 	text-align: center;
 }
 */#magiSeries {
-	background-color: rgb(253,247,237);
-	border-top: 3px black solid;
-	border-bottom: 3px black solid;
+	background-color: rgb(255,252,246);
+	border-top: 3px black double;
+	border-bottom: 3px black double;
 	padding-left: 1%;
 }
 img#darkStarImg {
@@ -35,7 +36,7 @@ img#profilePic {
 	margin-left: 5%;
 }
 #purchaseLinks {
-	padding: 1em;
+	padding: 2em 0 2em 1em;
 }
 #darkStarImg {
 	width: 100%;
@@ -63,6 +64,7 @@ img#profilePic {
 	background-color: rgba(114,43,4,1);
 	color: white;
 	padding-top: 2em;
+	border-top: 3px white double;
 }
 #footer2 {
 	background-color: rgba(114,43,4,1);
