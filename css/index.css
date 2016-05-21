@@ -2,10 +2,15 @@
 	background-color: rgba(114,43,4,1);
 	border-bottom: 3px white double;
 }
+#header p {
+	color: white;
+	padding: 0 0 2em 0;
+	text-align: center;
+}
 h1 {
 	color: white;
 	font-family: 'PT Serif', serif;
-	padding: 6% 0 6% 0;
+	padding: 7% 0 1em 0;
 	text-align: center;
 	font-size: 3.5em;
 }
@@ -41,13 +46,21 @@ img#profilePic {
 	width: 150px;
 	margin-left: 5%;
 }
-#purchaseLinks {
-	padding: 2em 0 2em 1em;
+#whereToBuy {
+	padding: 2em 0 0 1em;
+	text-align: center;
+	font-weight: 900;
+	font-size: 1.5em;
+	letter-spacing: .5em;
 }
-#amazonIcon {width: 15%;}
-#barnesNobelIcon {width: 15%;}
-#googleIcon {width: 15%;}
-#iTunesIcon {width: 15%;}
+#purchaseLinks {
+	padding: 1em 0 2em 1em;
+	text-align: center;
+}
+#amazonIcon {width: 13%; padding: .5em;}
+#barnesNobelIcon {width: 13%; padding: .5em;}
+#googleIcon {width: 13%; padding: .5em;}
+#iTunesIcon {width: 13%; padding: .5em;}
 #darkStarImg {
 	width: 100%;
 }
