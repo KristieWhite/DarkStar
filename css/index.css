@@ -4,7 +4,7 @@
 h1 {
 	color: white;
 	font-family: 'PT Serif', serif;
-	padding: 5% 0 2% 0;
+	padding: 6% 0 6% 0;
 	text-align: center;
 	font-size: 3.5em;
 }
@@ -16,16 +16,19 @@ h2 {
 	padding-bottom: 4%;
 	text-align: center;
 }
-h3 {
+/*h3 {
 	color: white;
+	font-size: 2em;
 	text-align: center;
 }
-#magiSeries {
-	background-color: rgba(114,43,4,1);
+*/#magiSeries {
+	background-color: rgb(253,247,237);
+	border-top: 3px black solid;
+	border-bottom: 3px black solid;
 	padding-left: 1%;
 }
 img#darkStarImg {
-	width: 20%;
+	width: 15%;
 }
 img#profilePic {
 	width: 150px;
