@@ -42,10 +42,15 @@ h2 {
 img#darkStarImg {
 	width: 15%;
 }
-img#profilePic {
-	width: 150px;
-	margin-left: 5%;
+#profilePicDiv {
+	border: 3px double rgba(114,43,4,1);
+	background-color: #9A8066;
 }
+img#profilePic {
+	width: 20%;
+	margin-left: 5%;
+	margin-bottom: -2em;
+} 
 #whereToBuy {
 	padding: 2em 0 0 1em;
 	text-align: center;
@@ -57,10 +62,12 @@ img#profilePic {
 	padding: 1em 0 2em 1em;
 	text-align: center;
 }
-#amazonIcon {width: 13%; padding: .5em;}
-#barnesNobelIcon {width: 13%; padding: .5em;}
-#googleIcon {width: 13%; padding: .5em;}
-#iTunesIcon {width: 13%; padding: .5em;}
+#amazonIcon {width: 10%; padding: 0 1em;}
+#barnesNobelIcon {width: 10%; padding: 0 1em;}
+#googleIcon {width: 10%; padding: 0 1em;}
+#iTunesIcon {width: 10%; padding: 0 1em;}
+#facebookIcon {width: 10%; padding: 0 1em;}
+#twitterIcon {width: 10%; padding: 0 1em;}
 #darkStarImg {
 	width: 100%;
 }
