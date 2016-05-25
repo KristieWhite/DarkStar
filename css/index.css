@@ -49,7 +49,7 @@ img#darkStarImg {
 }
 img#profilePic {
 	width: 130px;
-	margin-left: 5%;
+	/*margin-left: 5%;*/
 	margin-bottom: -2em;
 	margin-top: -3em;
 	border-radius: 10%;
@@ -63,7 +63,6 @@ img#profilePic {
 	letter-spacing: .5em;
 }
 #purchaseLinks {
-	/*padding: 1em 0 2em 1em;*/
 	text-align: center;
 }
 /*#amazonIcon {width: 85px; padding: 0 2em 0 2em;}
@@ -127,36 +126,26 @@ img#profilePic {
 /* SHARED QUERIES ARE LOCATED ON SKELETON CSS (headers/footers,etc) */
 /* Larger than mobile */
 @media (min-width: 400px) {
-	img#profilePic {
-		/*width: 12%;*/
-	}
+	
 }
 
 /* Larger than phablet (also point when grid becomes active) */
 @media (min-width: 550px) {
-	img#profilePic {
-		/*width: 11%;*/
-	}
+	
 	
 }
 
 /* Larger than tablet */
 @media (min-width: 750px) {
-	img#profilePic {
-		/*width: 13%;*/
-	}
+	
 }
 
 /* Larger than desktop */
 @media (min-width: 1000px) {
-	img#profilePic {
-		/*width: 10%;*/
-	}
+	
 }
 
 /* Larger than Desktop HD */
 @media (min-width: 1200px) {
-	img#profilePic {
-		/*width: 10%;*/
-	}
+	
 }

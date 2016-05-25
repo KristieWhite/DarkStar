@@ -35,7 +35,11 @@ img#profilePic {
 	padding: 1em;
 }
 #darkStarImg {
-	width: 100%;
+	width: 400px;
+}
+#darkStarDiv {
+	background-color: rgb(255,245,226);	
+	padding: 1em;
 }
 #description {
 	padding: 0 3em 0 1em;
