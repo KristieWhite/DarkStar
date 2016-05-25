@@ -1,8 +1,6 @@
-#header1 {
+#header {
 	background-color: rgba(114,43,4,1);
-}
-#header2 {
-	background-color: rgba(114,43,4,1);
+	border-bottom: 3px white double;
 }
 #photoHeader {
 	background-color: rgba(114,43,4,1);
@@ -22,30 +20,37 @@ h2 {
 	text-align: center;
 }
 h3 {
-	color: white;
 	font-size: 2.4em;
-	color: #FFE035;
-	padding: 1em;
 }
-img#profilePic {
-	width: 150px;
-	margin-left: 5%;
+.social {
+	/*padding: 1em;*/
 }
+
 #purchaseLinks {
 	padding: 1em;
+}
+.socialIcons {
+	width: 75px;
+	padding: 1em 2em 0 2em;
+}
+.purchaseIcons {
+	width: 60px;
+	padding: 1em 1em 0 1em;
 }
 #darkStarImg {
 	width: 400px;
 }
 #darkStarDiv {
 	background-color: rgb(255,245,226);	
+	border-top: 3px double rgba(114,41,4,1);
+	border-bottom: 3px double rgba(114,41,4,1);
 	padding: 1em;
 }
 #description {
 	padding: 0 3em 0 1em;
 }
 #social {
-	padding: 1em;
+	/*padding: 1em;*/
 }
 .videoWrapper {
 	position: relative;
@@ -63,11 +68,13 @@ img#profilePic {
 #footer1 {
 	background-color: rgba(114,43,4,1);
 	color: white;
-	padding-top: 2em;
+	height: 100px;
+	border-top: 3px double white;
+	/*padding-top: 2em;*/
 }
-#footer2 {
+/*#footer2 {
 	background-color: rgba(114,43,4,1);
-}
+}*/
 .listIndent1 {
 	margin-left: 40%;
 }
