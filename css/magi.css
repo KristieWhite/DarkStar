@@ -27,19 +27,23 @@ h3 {
 }
 
 #purchaseLinks {
-	padding: 1em;
+	/*padding: 1em;*/
 }
 .socialIcons {
 	width: 70px;
 	padding: 0 1em 0 1em;
 	/*margin-top: -2.5em;*/
 }
+/*Purchase icons padding in queries below*/
 .purchaseIcons {
 	width: 60px;
 	padding: 1em 1em 0 1em;
 }
 #darkStarImg {
-	width: 70%;
+	width: 90%;
+}
+#darkStarPos {
+	text-align: center;
 }
 #darkStarDiv {
 	background-color: rgb(255,245,226);	
@@ -64,26 +68,43 @@ h3 {
 #footLinks {
 	padding-top: 2em;
 }
-.listIndent1 {
+/*.listIndent1 {
 	margin-left: 40%;
 }
 .listIndent3 {
 	margin-left: 38%;
-}
+}*/
 
 
 /* SHARED QUERIES ARE LOCATED ON SKELETON CSS (headers/footers,etc) */
 /* Larger than mobile */
-@media (min-width: 400px) {}
+@media (min-width: 400px) {
+
+}
 
 /* Larger than phablet (also point when grid becomes active) */
-@media (min-width: 550px) {}
+@media (min-width: 550px) {
+	
+}
 
 /* Larger than tablet */
-@media (min-width: 750px) {}
+@media (min-width: 750px) {
+	.purchaseIcons {
+		padding: 1em 1em 0 1em;
+	}
+}
 
 /* Larger than desktop */
-@media (min-width: 1000px) {}
+@media (min-width: 1000px) {
+	.purchaseIcons {
+	padding: 1em 1em 0 1em;
+	}
+
+}
 
 /* Larger than Desktop HD */
-@media (min-width: 1200px) {}
+@media (min-width: 1200px) {
+	.purchaseIcons {
+		padding: 1em 1em 0 1em;
+	}
+}
