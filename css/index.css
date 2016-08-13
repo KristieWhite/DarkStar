@@ -1,9 +1,10 @@
 #header {
 	/*background-color: rgba(114,43,4,1);*/
-	background-color: #30415d;
+	background-color: #67666b;
 	/*border-bottom: 3px white double;*/
-	border-left: 2em dotted #30415d;
-	border-right: 2em dotted #30415d;
+	border-left: 2em dotted #293948;
+	border-right: 2em dotted #293948;
+	border-bottom: 1px double white;
 }
 #header p {
 	color: white;
@@ -27,14 +28,24 @@ h2 {
 }
 
 #magiSeries {
-	background-color: rgb(255,245,226);
+	/*background-color: rgb(255,245,226);*/
+	background-color: #031424;
 	border-top: 3px black double;
 	padding-left: 1%;
+	color: #eee;
 }
-#magiSeries2 {
-	background-color: rgb(255,245,226);
-	border-bottom: 3px black double;
-	/*padding-left: 1%;*/
+#magiSeries a {
+	color: #eee;
+}
+.narrow {
+	padding: 0 10em 1em 10em;
+}
+#magiBooks {
+	/*background-color: rgb(255,245,226);*/
+	/*background-color: rgb(57,58,78);*/
+	/*border-bottom: 3px black double;*/
+	border-bottom: 1em solid rgb(57,58,79);
+	padding-top: 3%;
 }
 #magiSeries a {
 	/*color: black;*/
