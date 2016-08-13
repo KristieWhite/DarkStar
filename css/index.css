@@ -1,6 +1,9 @@
 #header {
-	background-color: rgba(114,43,4,1);
-	border-bottom: 3px white double;
+	/*background-color: rgba(114,43,4,1);*/
+	background-color: #30415d;
+	/*border-bottom: 3px white double;*/
+	border-left: 2em dotted #30415d;
+	border-right: 2em dotted #30415d;
 }
 #header p {
 	color: white;
@@ -44,17 +47,21 @@ img#darkStarImg {
 	padding: 0 3em 1em 2em;
 }
 #profilePicDiv {
-	border: 3px double rgba(114,43,4,1);
-	background-color: #9A8066;
+	/*border: 3px double rgba(114,43,4,1);*/
+	/*background-color: #9A8066;*/
+	background-color: #67666b;
 }
 img#profilePic {
-	width: 130px;
+	width: 125px;
 	/*margin-left: 5%;*/
-	margin-bottom: -2em;
+	margin-bottom: -1.5em;
 	margin-top: -3em;
 	border-radius: 10%;
 	padding-bottom: 1em;
 } 
+#fadingMoonsImg {
+	width: 160px;
+}
 #whereToBuy {
 	padding: 2em 0 0 1em;
 	text-align: center;
@@ -62,6 +69,7 @@ img#profilePic {
 	font-size: 1.5em;
 	letter-spacing: .5em;
 }
+
 #purchaseLinks {
 	text-align: center;
 }
@@ -107,21 +115,24 @@ img#profilePic {
 	height: 100%;
 }
 #footer {
-	background-color: rgba(114,43,4,1);
+	/*background-color: rgba(114,43,4,1);*/
+	background-color: #30415d;
 	color: white;
 	height: 100px;
-	/*padding-top: 2em;*/
 	border-top: 3px white double;
+}
+#footer a {
+	color: #eee;
 }
 #footLinks {
 	padding-top: 2em;
 }
-.listIndent1 {
+/*.listIndent1 {
 	margin-left: 40%;
 }
 .listIndent3 {
 	margin-left: 38%;
-}
+}*/
 
 
 /* SHARED QUERIES ARE LOCATED ON SKELETON CSS (headers/footers,etc) */
