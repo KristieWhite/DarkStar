@@ -94,6 +94,9 @@ img#profilePic {
 #cursiveBN a {
 	color: #966a64;
 }
+#cursiveGoogle a {
+	color: #434146;
+}
 #purchaseLinks {
 	text-align: center;
 }
