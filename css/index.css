@@ -79,8 +79,21 @@ img#profilePic {
 	font-weight: 900;
 	font-size: 1.5em;
 	letter-spacing: .5em;
+	color: black;
 }
-
+.cursivePurchase a {
+	letter-spacing: 0;
+	font-family: 'Seaweed Script', cursive;
+	font-size: 2em;
+	padding: 1em;
+	/*color: #e2cd58;*/
+}
+#cursiveAmazon a {
+	color: #565469;
+}
+#cursiveBN a {
+	color: #966a64;
+}
 #purchaseLinks {
 	text-align: center;
 }
@@ -138,12 +151,6 @@ img#profilePic {
 #footLinks {
 	padding-top: 2em;
 }
-/*.listIndent1 {
-	margin-left: 40%;
-}
-.listIndent3 {
-	margin-left: 38%;
-}*/
 
 
 /* SHARED QUERIES ARE LOCATED ON SKELETON CSS (headers/footers,etc) */
