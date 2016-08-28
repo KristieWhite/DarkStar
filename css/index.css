@@ -73,20 +73,31 @@ img#profilePic {
 #fadingMoonsImg {
 	width: 160px;
 }
-#whereToBuy {
-	padding: 2em 0 0 1em;
+.links {
+	width: 100%	;
+}
+.buySocial {
+	padding-top: 2em;
 	text-align: center;
 	font-weight: 900;
 	font-size: 1.5em;
 	letter-spacing: .5em;
 	color: black;
 }
+#getSocial {
+	width: 100%;
+	/*padding-top: 3em;*/
+}
 .cursivePurchase a {
 	letter-spacing: 0;
 	font-family: 'Seaweed Script', cursive;
 	font-size: 2em;
-	padding: 1em;
+	padding: 2em;
 	/*color: #e2cd58;*/
+}
+.socialIconsP {
+	width:100%;
+	/*padding: 0 10em;*/
 }
 #cursiveAmazon a {
 	color: #565469;
@@ -97,9 +108,12 @@ img#profilePic {
 #cursiveGoogle a {
 	color: #434146;
 }
-#purchaseLinks {
-	text-align: center;
+#cursiveiTunes a {
+	color: #59576c;
 }
+/*#purchaseLinks {
+	text-align: center;
+}*/
 /*#amazonIcon {width: 85px; padding: 0 2em 0 2em;}
 #barnesNobelIcon {width: 85px; padding: 0 2em 0 2em;}
 #googleIcon {width: 85px; padding: 0 2em 0 2em;}
@@ -108,7 +122,8 @@ img#profilePic {
 #twitterIcon {width: 85px; padding: 0 2em 1em 2em;}*/
 
 .styleIcons {
-	width: 85px; padding: 2em;
+	width: 85px; 
+	padding: 0 5em;
 }
 
 #description {
@@ -121,12 +136,9 @@ img#profilePic {
 	font-weight: 900;
 	font-size: 1.5em;
 }
-#socialDiv > p {
-	padding: 1em 0 0 1em;
-}
-#social {
-	/*padding: 1em;*/
-	margin-top: -2em;
+
+.social {
+	padding: 3em;
 }
 .videoWrapper {
 	position: relative;
