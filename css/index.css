@@ -100,7 +100,7 @@ img#profilePic {
 	/*padding: 0 10em;*/
 }
 #cursiveAmazon a {
-	color: #565469;
+	color: #434146;
 }
 #cursiveBN a {
 	color: #966a64;
@@ -109,7 +109,7 @@ img#profilePic {
 	color: #434146;
 }
 #cursiveiTunes a {
-	color: #59576c;
+	color: #966a64;
 }
 /*#purchaseLinks {
 	text-align: center;
@@ -140,6 +140,9 @@ img#profilePic {
 .social {
 	padding: 3em;
 }
+#videoDiv {
+	/*display: inline-block;*/
+}
 .videoWrapper {
 	position: relative;
 	padding-bottom: 56.25%; /* 16:9 */
@@ -159,6 +162,7 @@ img#profilePic {
 	color: white;
 	height: 100px;
 	border-top: 3px white double;
+	margin-top: 44%;
 }
 #footer a {
 	color: #eee;
