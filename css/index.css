@@ -93,12 +93,10 @@ img#profilePic {
 	letter-spacing: 0;
 	font-family: 'Seaweed Script', cursive;
 	font-size: 2em;
-	padding: 2em;
-	/*color: #e2cd58;*/
+	padding: 2em 0;
 }
 .socialIconsP {
 	width:100%;
-	/*padding: 0 10em;*/
 }
 #cursiveAmazon a {
 	color: #434146;
@@ -182,6 +180,10 @@ img#profilePic {
 	.narrow {
 		padding: 0 1em 1em 1em;
 	}
+	#cursiveAmazon {display: ;}
+	#cursiveBN {display: ;}
+	#cursiveGoogle {display: ;}
+	#cursiveiTunes {display: ;}
 }
 
 /* Larger than phablet (also point when grid becomes active) */
