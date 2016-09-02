@@ -52,7 +52,7 @@ h2 {
 }
 img#darkStarImg {
 	width: 160px;
-	padding: 0 3em 1em 2em;
+	padding: 0 2.5em 1em 2.5em;
 }
 #profilePicDiv {
 	/*border: 3px double rgba(114,43,4,1);*/
@@ -69,7 +69,7 @@ img#profilePic {
 } 
 #fadingMoonsImg {
 	width: 160px;
-	padding: 0 3em 1em 2em;
+	padding: 0 2.5em 1em 2.5em;
 }
 .links {
 	width: 100%	;
