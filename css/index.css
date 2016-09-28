@@ -77,35 +77,37 @@ img#profilePic {
 
 #getSocial {
 	width: 100%;
-	/*padding-top: 3em;*/
 }
-.cursivePurchase a {
+.iconPurchase a {
 	letter-spacing: .13em;
 	font-family: 'Seaweed Script', cursive;
 	font-size: 2em;
-	/*padding: 2em 0;*/
 	margin-top: 1em;
 }
 
 .socialIconsP {
 	width:100%;
 }
-#cursiveAmazon a {
-	color: #434146;
+.buyIcon {
+	width: 125px;
+	padding: 0 1em;
 }
-#cursiveBN a {
-	color: #966a64;
+#buyAmazon a {
+	/*color: #434146;*/
 }
-#cursiveGoogle a {
-	color: #434146;
+#buyBN a {
+	/*color: #966a64;*/
 }
-#cursiveiTunes a {
-	color: #966a64;
+#buyGoogle a {
+	/*color: #434146;*/
 }
-#cursiveAmazon a:hover {text-transform: uppercase; font-weight: bolder;}
-#cursiveBN a:hover {text-transform: uppercase; font-weight: bolder;}
-#cursiveGoogle a:hover {text-transform: uppercase; font-weight: bolder;}
-#cursiveiTunes a:hover {text-transform: uppercase; font-weight: bolder;}
+#buyiTunes a {
+	/*color: #966a64;*/
+}
+/*#iconAmazon a:hover {text-transform: uppercase; font-weight: bolder;}*/
+/*#iconBN a:hover {text-transform: uppercase; font-weight: bolder;}*/
+/*#iconGoogle a:hover {text-transform: uppercase; font-weight: bolder;}*/
+/*#iconiTunes a:hover {text-transform: uppercase; font-weight: bolder;}*/
 
 /*#purchaseLinks {
 	text-align: center;
@@ -180,10 +182,12 @@ img#profilePic {
 	text-decoration: underline;
 	}
 	/* GLOBAL ANCHORS ON LINE 104 and in skeleton css */
-	#cursiveAmazon a {font-weight: 700;}
-	#cursiveBN a {font-weight: 700;}
-	#cursiveGoogle a {font-weight: 700;}
-	#cursiveiTunes a {font-weight: 700;}
+	#buyAmazon a {}
+	#buyBN a {}
+	#buyGoogle a {}
+	#buyiTunes a {
+		/*font-weight: 700;*/
+	}
 	#footer {
 		margin-top: 69%;
 		background-color: #30515d;
@@ -215,10 +219,12 @@ img#profilePic {
 	color: black;
 	text-decoration: underline;
 	}
-	#cursiveAmazon a {font-weight: 700;}
-	#cursiveBN a {font-weight: 700;}
-	#cursiveGoogle a {font-weight: 700;}
-	#cursiveiTunes a {font-weight: 700;}
+	#buyAmazon a {}
+	#buyBN a {}
+	#buyGoogle a {}
+	#buyiTunes a {
+		/*font-weight: 700;*/
+	}
 	#footer {
 		margin-top: 47%; 
 		background-color: #30515d;
@@ -252,10 +258,12 @@ img#profilePic {
 	color: black;
 	text-decoration: underline;
 	}
-	#cursiveAmazon a {font-weight: 700;}
-	#cursiveBN a {font-weight: 700;}
-	#cursiveGoogle a {font-weight: 700;}
-	#cursiveiTunes a {font-weight: 700;}
+	#buyAmazon a {}
+	#buyBN a {}
+	#buyGoogle a {}
+	#buyiTunes a {
+		font-weight: 700;
+	}
 	#footer {
 		margin-top: 46%
 		background-color: #30515d;
